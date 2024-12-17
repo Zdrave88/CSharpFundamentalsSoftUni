@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\bin\Debug\net6.0\demo05.exe
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\bin\Debug\net6.0\demo05.deps.json
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\bin\Debug\net6.0\demo05.runtimeconfig.json
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\bin\Debug\net6.0\demo05.dll
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\bin\Debug\net6.0\demo05.pdb
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.dll
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\refint\demo05.dll
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.pdb
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\demo05.genruntimeconfig.cache
+D:\SoftUni\C# Fundamentals 2024\13. Text Processing\Strings and Text Processing Exercises\TextProcessing-Exercise\demo05\obj\Debug\net6.0\ref\demo05.dll
