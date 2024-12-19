@@ -1,0 +1,14 @@
+D:\SoftUni\C# Fundamentals 2024\01\03\bin\Debug\net6.0\03.exe
+D:\SoftUni\C# Fundamentals 2024\01\03\bin\Debug\net6.0\03.deps.json
+D:\SoftUni\C# Fundamentals 2024\01\03\bin\Debug\net6.0\03.runtimeconfig.json
+D:\SoftUni\C# Fundamentals 2024\01\03\bin\Debug\net6.0\03.dll
+D:\SoftUni\C# Fundamentals 2024\01\03\bin\Debug\net6.0\03.pdb
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.AssemblyInfoInputs.cache
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.AssemblyInfo.cs
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.csproj.CoreCompileInputs.cache
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.dll
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\refint\03.dll
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.pdb
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\03.genruntimeconfig.cache
+D:\SoftUni\C# Fundamentals 2024\01\03\obj\Debug\net6.0\ref\03.dll
